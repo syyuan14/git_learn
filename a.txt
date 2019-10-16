@@ -3,5 +3,4 @@ Git is a version control system
 Git is a free softmware distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-test stash .
-a add.
+test stash,student b add.
